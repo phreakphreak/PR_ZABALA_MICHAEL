@@ -5,6 +5,8 @@ npm install
 npm run test
 ```
 
+### Link del Repo [Repositorio Github](https://github.com/phreakphreak/PR_ZABALA_MICHAEL)
+
 ## PRUEBA PRÁCTICA - Algoritmia
 
 Realiza los siguientes ejercicios 
